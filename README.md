@@ -1,5 +1,5 @@
 # Censo_escolar
-Avaliação da disciplina de sistemas inteligêntes do curso análise e desenvolvimento de sistemas -IFPE 
+Avaliação da disciplina de Sistemas Inteligentes do curso análise e desenvolvimento de sistemas -IFPE 
 
 
 # Contexto:
